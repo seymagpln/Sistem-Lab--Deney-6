@@ -1,1 +1,1 @@
-# Sistem-Lab--Deney-6
+# Deney 6 - Sistem Lab
